@@ -8,6 +8,8 @@ Self-contained, pretty and versatile `.tmux.conf` configuration file.
 Installation
 ------------
 
+更新tmux样式的方式是重启tmux在命令模式（按PREFIX ，也就是ctrl + b )输入 :source-file ~/.tmux.conf 
+
 Requirements:
 
   - tmux **`>= 2.1`** running inside Linux, Mac, OpenBSD, Cygwin or WSL (Bash on
